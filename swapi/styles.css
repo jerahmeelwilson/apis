@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-image: url("/swapi/images/lukas-denier-YiXsjwJKXmo-unsplash.jpeg");
+  background-size: cover;
+  color: yellow;
+  text-shadow: 3px 3px black;
+}
+button {
+  background-color: yellow;
+  color: black;
+  border-radius: 25px;
+  border: 1px solid black;
+  box-shadow: 3px 3px black;
+}
+button:hover {
+  background-color: white;
+}
